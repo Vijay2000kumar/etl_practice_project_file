@@ -1,6 +1,8 @@
 # etl_practice_project_file
 
-ETL Job with AWS Glue Studio, S3, & Athena 🚀
+#ETL Job with AWS Glue Studio, S3, & Athena 🚀
+
+
 Background
 This repository serves as a guide to creating an ETL (Extract, Transform, Load) job using a combination of AWS Cloud Services, namely Amazon S3, AWS Glue Studio, and Amazon Athena. ETL is a crucial process in handling large volumes of analytical data, ensuring it is transformed and loaded into a format suitable for analysis and business insights.
 
